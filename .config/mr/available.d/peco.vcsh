@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/peco.git]
+checkout = vcsh clone git@github.com:Enzime/dotfiles-peco.git peco
