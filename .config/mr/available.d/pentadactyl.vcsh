@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/pentadactyl.git]
-checkout = vcsh clone git@github.com:Enzime/dotfiles-pentadactyl.git pentadactyl
+checkout = vcsh clone gh:Enzime/dotfiles-pentadactyl.git pentadactyl

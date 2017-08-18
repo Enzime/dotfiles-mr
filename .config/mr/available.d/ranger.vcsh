@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/ranger.git]
-checkout = vcsh clone git@github.com:Enzime/dotfiles-ranger.git ranger
+checkout = vcsh clone gh:Enzime/dotfiles-ranger.git ranger

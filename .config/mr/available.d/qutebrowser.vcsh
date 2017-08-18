@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/qutebrowser.git]
-checkout = vcsh clone git@github.com:Enzime/dotfiles-qutebrowser.git qutebrowser
+checkout = vcsh clone gh:Enzime/dotfiles-qutebrowser.git qutebrowser
