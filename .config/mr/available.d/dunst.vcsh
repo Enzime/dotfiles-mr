@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dunst.git]
+checkout = vcsh clone gh:Enzime/dotfiles-dunst.git dunst
